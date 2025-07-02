@@ -80,6 +80,9 @@
    .footer__menu {
     justify-content: space-between;
    }
+   .hero__title {
+    align-items: center;
+   }
 }
 @media (max-width: 440px) {
 
